@@ -10,7 +10,7 @@
 # 6. Клиентский конфю файл будит лежать в папке /root/client-configs/files
 #
 # combine sameza - samezarus@gmail.com
-# git - 
+# git - https://github.com/samezarus
 apt update
 
 apt install openvpn easy-rsa -y

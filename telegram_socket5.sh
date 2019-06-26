@@ -3,7 +3,7 @@
 
 clear
 
-adrr="$1" # token=chat exmp: 534834893:AAHrIlaxNEWti1E9vXgtANwigIjsuvpzgzc=-277889075
+adrr="$1" # token=chat exmp: 0000000000000000000000000000000=111111111
 subj="$2"
 message="$3"
 
@@ -25,10 +25,6 @@ do
 		chat+=${adrr:$i+1:1}
 	fi
 done
-
-# UTM
-#token='534834893:AAHrIlaxNEWti1E9vXgtANwigIjsuvpzgzc'
-#chat='-277889075'
 
 #subj='subject'
 #message='message'
